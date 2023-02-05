@@ -1,6 +1,6 @@
 import openai
 
-API_KEY = "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"
+API_KEY = ""
 
 
 def openai_request():
